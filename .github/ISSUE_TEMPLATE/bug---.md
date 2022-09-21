@@ -1,7 +1,7 @@
 ---
 name: BUG 提出
-about: 发现了游戏的BUG或不合理之处？在这里进行提交
-title: "[BUG]"
+about: 发现了游戏的BUG或不合理之处？在这里进行提交。
+title: "[BUG]游戏问题"
 labels: bug
 assignees: ''
 
